@@ -1,17 +1,17 @@
 [
   {
-    "title": "Título de la nota",
-    "subtitle": "Una bajada breve que explique por qué importa.",
-    "author": "Nombre del autor",
-    "date": "2026-10-17",
-    "category": "Música",
-    "category_slug": "musica",
-    "url": "noticias/plantilla.html",
+    "title": "Desaprobamos",
+    "subtitle": "Un nuevo portal de noticias independiente de Morón.",
+    "author": "Elpibe y Svs",
+    "date": "2026-10-19",
+    "category": "Editorial",
+    "category_slug": "editorial",
+    "url": "noticias/desaprobamos.html",
     "featured": true,
     "tags": [
-      "rock",
-      "Morón"
+      "Presentación",
+      "Editorial"
     ],
-    "image": ""
+    "image": "assets/images/desaprobados.png"
   }
 ]
