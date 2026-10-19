@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Título de la nota",
+    "subtitle": "Una bajada breve que explique por qué importa.",
+    "author": "Nombre del autor",
+    "date": "2026-10-17",
+    "category": "Música",
+    "category_slug": "musica",
+    "url": "noticias/plantilla.html",
+    "featured": true,
+    "tags": [
+      "rock",
+      "Morón"
+    ],
+    "image": ""
+  }
+]
